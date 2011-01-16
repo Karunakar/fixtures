@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles type="array">
+  <profile>
+    <city>3323</city>
+    <created-at type="datetime">2010-12-18T15:23:07Z</created-at>
+    <date-of-birth>00555</date-of-birth>
+    <email>rajib.rajib@rajib.com</email>
+    <first-name>Rajib</first-name>
+    <id type="integer">1</id>
+    <last-name>2345</last-name>
+    <updated-at type="datetime">2010-12-18T15:23:07Z</updated-at>
+  </profile>
+</profiles>

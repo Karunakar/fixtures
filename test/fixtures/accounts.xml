@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts type="array">
+  <account>
+    <account-number>1</account-number>
+    <bank-name>HSBC</bank-name>
+    <branch-name>Ultatanga</branch-name>
+    <created-at type="datetime">2010-12-18T19:05:16Z</created-at>
+    <id type="integer">1</id>
+    <name>Rajib</name>
+    <profile-id type="integer">1</profile-id>
+    <updated-at type="datetime">2010-12-19T18:08:54Z</updated-at>
+  </account>
+  <account>
+    <account-number>1</account-number>
+    <bank-name>HSBC</bank-name>
+    <branch-name>Ultatanga</branch-name>
+    <created-at type="datetime">2010-12-19T18:04:00Z</created-at>
+    <id type="integer">2</id>
+    <name>Rajib</name>
+    <profile-id type="integer">1</profile-id>
+    <updated-at type="datetime">2010-12-19T18:08:54Z</updated-at>
+  </account>
+  <account>
+    <account-number>1</account-number>
+    <bank-name>HSBC</bank-name>
+    <branch-name>Ultatanga</branch-name>
+    <created-at type="datetime">2010-12-19T18:04:14Z</created-at>
+    <id type="integer">3</id>
+    <name>Rajib</name>
+    <profile-id type="integer">1</profile-id>
+    <updated-at type="datetime">2010-12-19T18:08:54Z</updated-at>
+  </account>
+</accounts>
